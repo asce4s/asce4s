@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Supun</h1>
 
-<!--
-**asce4s/asce4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>💡 Tech Enthusiast | 🌐 Lifelong Learner | 🚀 Building cool things with code</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me
+
+💻 Passionate about technology, creativity, and clean code.  
+🌱 Always exploring new ideas — from **microservices** to **AI-driven web experiences**.  
+☁️ Cloud-curious with a love for **GCP** and **AWS**.  
+⚙️ Constantly tinkering, learning, and improving.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,spring,react,nextjs,nodejs,lua,gcp,aws,docker,git,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asce4s&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asce4s&theme=tokyonight&hide_border=true" height="160px" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/asce4s" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asce4s/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎨 Fun Zone
+
+> “Code is art — and every line tells a story.”  
+> Currently crafting digital experiences that blend **logic and creativity**.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<p align="center">
+  <i>✨ Thanks for stopping by — drop a ⭐ if you like what you see!</i>
+</p>
